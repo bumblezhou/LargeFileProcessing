@@ -1,5 +1,5 @@
 ﻿This project do the following things:
-	1). Create a large file(500MB) contains Log lines or empty lines or something else.
+	1). Create a large file(>800MB) contains Log lines or empty lines or something else.
 	2). Load the log items by page(the default page size is 500) as soon as possible.
 	3). Print the benchmark of loading performance.
 Note: 
